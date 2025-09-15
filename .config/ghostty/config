@@ -1,0 +1,11 @@
+theme = light:iterm2 Solarized Light,dark:iterm2 Solarized Dark
+
+# quick terminal
+quick-terminal-position = bottom
+quick-terminal-animation-duration = 0.1
+background-opacity = 0.8
+background-blur = true
+keybind = global:cmd+grave_accent=toggle_quick_terminal
+
+# emacs
+macos-option-as-alt = true
