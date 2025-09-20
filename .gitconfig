@@ -1,0 +1,8 @@
+[user]
+	email = nathancspencer03@gmail.com
+	name = Nathan Spencer
+[alias]
+	s = status
+	pl = pull
+	ph = push
+	c = commit -m
