@@ -1,4 +1,6 @@
 syntax on
+set regexpengine=0        " Syntax highlight shouldn't brick typescript
+
 set number
 set ruler                 " Show the line number and column in the status bar
 set backspace=2           " Makes backspace behave like you'd expect
