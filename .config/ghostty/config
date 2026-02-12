@@ -9,3 +9,5 @@ keybind = global:cmd+grave_accent=toggle_quick_terminal
 
 # emacs
 macos-option-as-alt = true
+
+macos-titlebar-style = tabs
